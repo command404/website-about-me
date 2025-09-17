@@ -216,3 +216,7 @@ img.lk {
 .HTML{
     margin-left: -30vw;
 }
+
+html {
+  scroll-behavior: smooth;
+}
