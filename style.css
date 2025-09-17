@@ -134,7 +134,7 @@ img.lk {
 
 .experience {
     margin-left: 20vh;
-    padding-left: 150px;
+    padding-left: 185px;
     background-color: white;
     border: 1px solid black;
     width: 40vw;
@@ -157,14 +157,14 @@ img.lk {
     font-size: x-large;
 }
 .about-experience {
-    margin-left: -150px;
+    margin-left: -200px;
     text-align: center;
     font-weight: lighter;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 .about-education {
-    margin-left: -20vh;
+    margin-left: -24vh;
     padding-left: -30vw;
     text-align: center;
     font-weight: lighter;
@@ -185,5 +185,34 @@ img.lk {
 }
 .section-1-header {
     font-family: "Montserrat", sans-serif;;
-}
+}  
+
+#me {
+    margin-left: -122vh;
+    font-family: "Arial", "Helvetica", sans-serif;
+  font-size: 0.7em;
+  color: rgba(0, 0, 0, 0.432);
+  font-style: italic;
+  text-align: center;
     
+}
+
+.skills-first {
+    margin-left: -20vh;
+   font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+
+.skills-second {
+    margin-left: -10vw;
+     font-family: "Poppins", sans-serif;
+}
+.python {
+    margin-left: -20vw;
+}
+.C{
+    margin-left: -32vw;
+}
+.HTML{
+    margin-left: -30vw;
+}
